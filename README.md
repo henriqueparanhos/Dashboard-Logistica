@@ -1,4 +1,4 @@
-# 📦 Dashboard Logístico — Power BI + DAX + HTML Interativo
+# Dashboard Logístico — Power BI + DAX + HTML Interativo
 
 Projeto de análise operacional de entregas construído inteiramente em **Power BI Desktop**, com modelo semântico DAX avançado e um dashboard HTML interativo renderizado nativamente dentro do relatório — sem dependências externas, sem JavaScript libraries, sem servidores.
 
